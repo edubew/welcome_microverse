@@ -1,56 +1,34 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Setup Hello Microverse Project
 
-> Description the project.
+> In this project, I will set up a "Hello world" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices I learned about in previous steps. I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them
 
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Html
+- Css
+- Vissual studio code
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Github account
+- code editor
+- git
+
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- git init
+- git clone https://github.com/edubew/mobile_version_skeleton.git
 
 
 ## Authors
 
 👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@edubew](https://github.com/edubew)
+- Twitter: [@edube_winne](https://twitter.com/edube_winne)
+- LinkedIn: [Winfred Edube](https://www.linkedin.com/in/winfred-edube-9820a422a/)
 
 ## 🤝 Contributing
 
